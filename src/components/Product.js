@@ -5,11 +5,10 @@ import { Flex, Image, Name, Brand, Price, Pdpr, Div, Div2} from '../styled/Produ
 import { setProduct, setImageIndex, setVariant } from '../feature/productSlice';
 import { addToCart, togglePopUpCart } from '../feature/cartSlice';
 import { connect } from 'react-redux';
-
-
-
-
-
+import { setPriceBasedOnCurrency } from '../utils/common';
+import ThumbNail from './ThumbNail';
+import VariantList from './VariantList';
+import { getProductQuery } from '../utils/query';
 
 
 class Product extends React.Component {

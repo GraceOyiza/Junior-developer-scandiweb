@@ -1,6 +1,7 @@
 import React from 'react';
 import {setCurrencies,  setCurrentCurrency} from "../feature/currencySlice"
 import { connect } from 'react-redux';
+import { getCurrencyQuery } from '../utils/query';
 
 class CurrencySwitcher extends React.Component {
    constructor() {

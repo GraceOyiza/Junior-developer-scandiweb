@@ -8,6 +8,7 @@ import {
 } from '../feature/cartSlice';
 import { connect } from 'react-redux';
 import CartItem from './CartItem';
+import { calculateCartQuantity, calculateCartTotal } from '../utils/common';
 
 
 class Cart extends React.Component {

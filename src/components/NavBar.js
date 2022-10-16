@@ -7,7 +7,7 @@ import { connect } from 'react-redux';
 import CurrencySwitcher from './CurrencySwitcher';
 import { Link } from 'react-router-dom';
 import { setCategories, setCurrentCategoryName } from '../feature/categorySlice';
-
+import { getAllCategories } from '../utils/query';
 
 
 class NavBar extends React.Component {

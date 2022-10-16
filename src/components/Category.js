@@ -3,6 +3,8 @@ import {  Image, Row, Col, Grid, Paragraph, Pg, Heading} from '../styled/Categor
 import { setCategories, setCurrentCategory } from '../feature/categorySlice';
 import { connect } from "react-redux";
 import { Link } from "react-router-dom";
+import { setPriceBasedOnCurrency } from '../utils/common';
+import { getCategoryQuery } from '../utils/query';
 
 class Category extends React.Component {
  
