@@ -1,5 +1,14 @@
 import React from 'react';
-
+import VariantList from './VariantList';
+import {
+  Flex,
+  Image,
+  Flex1,
+  Pag,
+  Button,
+  Price,
+  QuantityInput,
+} from '../styled/PopCartStyled';
 
 
 class CartItem extends React.Component {

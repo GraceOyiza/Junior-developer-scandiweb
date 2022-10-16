@@ -7,6 +7,7 @@ import {
   setVariant,
 } from '../feature/cartSlice';
 import { connect } from 'react-redux';
+import CartItem from './CartItem';
 
 
 class Cart extends React.Component {
