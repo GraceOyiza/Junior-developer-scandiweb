@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` renders correctly 1`] = `
+LoadedCheerio {
+  "0": <div
+    class="sc-gswNZR eZorJe"
+  >
+    <div
+      class="sc-gswNZR eZorJe"
+    >
+      <div />
+      <div
+        class="sc-dkrFOg heZvrG"
+      >
+        <img
+          class="sc-hLBbgP iquyTc"
+        />
+      </div>
+    </div>
+    <div>
+      <div>
+        <div
+          class="sc-gswNZR eZorJe"
+        >
+          <div>
+            <div
+              class="sc-jSUZER eMeJiA"
+            >
+               
+            </div>
+            <div
+              class="sc-gKPRtg oMuXV"
+            >
+               
+            </div>
+            <div
+              class="sc-iBYQkv bSBXIm"
+            >
+              PRICE:
+            </div>
+            <div
+              class="sc-ftTHYK cKdbmk"
+            />
+            <button
+              class="sc-bcXHqe iXndgr"
+            >
+              ADD TO CART
+            </button>
+            <div
+              class="sc-eDvSVe ikvxKf"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "_root": LoadedCheerio {
+    "0": Document {
+      "children": Array [
+        <html>
+          <head />
+          <body />
+        </html>,
+      ],
+      "endIndex": null,
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "startIndex": null,
+      "type": "root",
+      "x-mode": "quirks",
+    },
+    "_root": [Circular],
+    "length": 1,
+    "options": Object {
+      "decodeEntities": true,
+      "xml": false,
+    },
+  },
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "xml": false,
+  },
+}
+`;
