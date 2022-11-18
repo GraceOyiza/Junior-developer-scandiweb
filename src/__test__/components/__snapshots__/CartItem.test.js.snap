@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` renders correctly 1`] = `
+LoadedCheerio {
+  "0": <div>
+    <div
+      class="sc-eDvSVe aNsuN"
+    >
+      <div>
+        <div
+          class="sc-gKPRtg jxKmWA"
+        >
+           PlayStation 5
+        </div>
+        <div
+          class="sc-gKPRtg jxKmWA"
+        >
+           Sony
+        </div>
+        <div
+          class="sc-iBYQkv jrCxzV"
+        >
+          $844.02
+        </div>
+        <div>
+          <div>
+            <div
+              class="sc-gswNZR RkbKq"
+            >
+              Color:
+            </div>
+            <ul
+              class="sc-dkrFOg jGHgsH"
+            >
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="color-0"
+                  name="color"
+                  type="radio"
+                  value="#44FF03"
+                />
+                <label
+                  class=" undefined swatch"
+                  for="color-0"
+                  style="background-color:#44FF03"
+                >
+                   
+                </label>
+              </li>
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="color-1"
+                  name="color"
+                  type="radio"
+                  value="#03FFF7"
+                />
+                <label
+                  class=" undefined swatch"
+                  for="color-1"
+                  style="background-color:#03FFF7"
+                >
+                   
+                </label>
+              </li>
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="color-2"
+                  name="color"
+                  type="radio"
+                  value="#030BFF"
+                />
+                <label
+                  class=" undefined swatch"
+                  for="color-2"
+                  style="background-color:#030BFF"
+                >
+                   
+                </label>
+              </li>
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="color-3"
+                  name="color"
+                  type="radio"
+                  value="#000000"
+                />
+                <label
+                  class=" undefined swatch"
+                  for="color-3"
+                  style="background-color:#000000"
+                >
+                   
+                </label>
+              </li>
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="color-4"
+                  name="color"
+                  type="radio"
+                  value="#FFFFFF"
+                />
+                <label
+                  class=" undefined swatch"
+                  for="color-4"
+                  style="background-color:#FFFFFF"
+                >
+                   
+                </label>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <div>
+            <div
+              class="sc-gswNZR RkbKq"
+            >
+              Capacity:
+            </div>
+            <ul
+              class="sc-dkrFOg jGHgsH"
+            >
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="capacity-0"
+                  name="capacity"
+                  type="radio"
+                  value="512G"
+                />
+                <label
+                  class=" undefined false"
+                  for="capacity-0"
+                  style="background-color:"
+                >
+                  512G 
+                </label>
+              </li>
+              <li
+                class="sc-bcXHqe broeLV"
+              >
+                <input
+                  id="capacity-1"
+                  name="capacity"
+                  type="radio"
+                  value="1T"
+                />
+                <label
+                  class=" undefined false"
+                  for="capacity-1"
+                  style="background-color:"
+                >
+                  1T 
+                </label>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-eDvSVe aNsuN"
+      >
+        <div
+          class="sc-jSUZER cxDqCf"
+        >
+          <button
+            class="sc-jrcTuL lizvMu"
+          >
+            <svg
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 5V19"
+                stroke-width="#32323A"
+                strokewidth-linejoin="round"
+                strokewidth-width="2"
+                strokewidthlinecap="round"
+              />
+              <path
+                d="M5 12H19"
+                stroke-width="#32323A"
+                strokewidth-linejoin="round"
+                strokewidth-width="2"
+                strokewidthlinecap="round"
+              />
+            </svg>
+          </button>
+          <input
+            class="sc-bqWxrE gsuIFQ"
+            value="1"
+          />
+          <button
+            class="sc-jrcTuL lizvMu"
+          >
+            <svg
+              fill="none"
+              height="2"
+              viewBox="0 0 16 2"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 1H15"
+                stroke-width="#32323A"
+                strokewidth-linejoin="round"
+                strokewidth-width="2"
+                strokewidthlinecap="round"
+              />
+            </svg>
+          </button>
+        </div>
+        <div>
+          <img
+            class="sc-ftTHYK FZeuW"
+            src="https://images-na.ssl-images-amazon.com/images/I/510VSJ9mWDL._SL1262_.jpg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+  "_root": LoadedCheerio {
+    "0": Document {
+      "children": Array [
+        <html>
+          <head />
+          <body />
+        </html>,
+      ],
+      "endIndex": null,
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "startIndex": null,
+      "type": "root",
+      "x-mode": "quirks",
+    },
+    "_root": [Circular],
+    "length": 1,
+    "options": Object {
+      "decodeEntities": true,
+      "xml": false,
+    },
+  },
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "xml": false,
+  },
+}
+`;
